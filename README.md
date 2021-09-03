@@ -67,6 +67,10 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 1. What is the DOM?
     The DOM(Document Object Module) is an interface within javascript that modifies a webpage template to prevent unncessary code from being rewritten over and over again.
 2. What is an event?
+    An event calls its associated function and passes a single argument to the function, which is considered a reference to the event object.
 3. What is an event listener?
+    An event listener is a function in a program or project that waits for an event to occur.
 4. Why would we convert a NodeList into an Array?
+    We would convert a NodeList into an Array to be able to use common array methods to access and use the data within.
 5. What is a component?
+    Components are independent and reusable bits of code that have the same purpose as JS functions, however the return HTML and are isolated.
