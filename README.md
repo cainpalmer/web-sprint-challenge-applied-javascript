@@ -65,6 +65,7 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+    The DOM(Document Object Module) is an interface within javascript that modifies a webpage template to prevent unncessary code from being rewritten over and over again.
 2. What is an event?
 3. What is an event listener?
 4. Why would we convert a NodeList into an Array?
